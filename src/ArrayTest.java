@@ -7,6 +7,7 @@ public class ArrayTest {
         String[] c=new String[100];
         double [][] balences=new double[10][10];
         System.out.println(Arrays.deepToString(balences));
+        System.out.println("thrid commit");
         for(int i:a){
             System.out.println(i);
         }
